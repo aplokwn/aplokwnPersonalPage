@@ -1,0 +1,53 @@
+@charset "ISO-8859-1";
+
+body {
+    background-color: white;
+    overflow:auto;
+}
+
+.wrapper {
+    position: relative;
+    padding: 0px 0px 5%
+}
+
+.page-header{
+    background-image: url("../resource/images/bg03.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    padding-bottom: 3%;
+
+}
+
+.section1 {
+    position: relative;
+    top: 120px;
+
+}
+
+.aboutme{
+    background-image: url("../resource/images/bg02.jpg");
+    background-position: top 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #2e1b3b;
+    min-height: 550px;
+    max-width: 100%;
+    padding-bottom: 3%;
+}
+
+
+.project{
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #2e1b3b;
+    min-height: 600px;
+    max-width: 100%;
+}
+
+.container{
+    padding-top: 2%;
+}
+
+

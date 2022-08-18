@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="aplokwn:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>aplokwn</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="aplokwn-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="aplokwn:war exploded" />
+    </root>
+  </artifact>
+</component>

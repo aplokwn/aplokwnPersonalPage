@@ -1,0 +1,155 @@
+[
+  {
+    "path": "resource\\72dpi\\arc01.jpg",
+    "filename": "arc01.jpg",
+    "name": "The Parliament Buildings",
+    "type": "1",
+    "date": "2022 May",
+    "location": "Victoria, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\arc02.jpg",
+    "filename": "arc02.jpg",
+    "name": "The Parliament Buildings",
+    "type": "1",
+    "date": "2022 May",
+    "location": "Victoria, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\arc03.jpg",
+    "filename": "arc03.jpg",
+    "name": "The Parliament Buildings",
+    "type": "1",
+    "date": "2022 May",
+    "location": "Victoria, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\arc04.jpg",
+    "filename": "arc04.jpg",
+    "name": "Hotel Oberland",
+    "type": "1",
+    "date": "??????",
+    "location": "Lauterbrunnen, Bern, Switzerland"
+  },
+  {
+    "path": "resource\\72dpi\\arc05.jpg",
+    "filename": "arc05.jpg",
+    "name": "Berlin Cathedral",
+    "type": "1",
+    "date": "2022 May",
+    "location": "Museum Island, Berlin, Germany"
+  },
+    {
+    "path": "resource\\72dpi\\arc06.jpg",
+    "filename": "arc06.jpg",
+    "name": "Alte Nationalgalerie",
+    "type": "1",
+    "date": "2022 May",
+    "location": "Museum Island, Berlin, Germany"
+  },
+    {
+    "path": "resource\\72dpi\\arc07.jpg",
+    "filename": "arc07.jpg",
+    "name": "Berlin Cathedral",
+    "type": "1",
+    "date": "2022 May",
+    "location": "Museum Island, Berlin, Germany"
+  },
+  {
+    "path": "resource\\72dpi\\arc08.jpg",
+    "filename": "arc08.jpg",
+    "name": "Sanssouci",
+    "type": "1",
+    "date": "2022 May",
+    "location": "Potsdam, Germany"
+  },
+  {
+    "path": "resource\\72dpi\\arc09.jpg",
+    "filename": "arc09.jpg",
+    "name": "Sanssouci",
+    "type": "1",
+    "date": "2022 May",
+    "location": "BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast01.jpg",
+    "filename": "ast01.jpg",
+    "name": "Sanssouci",
+    "type": "2",
+    "date": "2022 May",
+    "location": "Yellowknife, Northwest Territories, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast02.jpg",
+    "filename": "ast02.jpg",
+    "name": "Sanssouci",
+    "type": "2",
+    "date": "2022 May",
+    "location": "Yellowknife, Northwest Territories, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast03.jpg",
+    "filename": "ast03.jpg",
+    "name": "Summer Milky Way",
+    "type": "2",
+    "date": "2022 May",
+    "location": "Yellowknife, Northwest Territories, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast04.jpg",
+    "filename": "ast04.jpg",
+    "name": "Summer Milky Way",
+    "type": "2",
+    "date": "2022 May",
+    "location": "Yellowknife, Northwest Territories, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast02.jpg",
+    "filename": "ast02.jpg",
+    "name": "Sanssouci",
+    "type": "2",
+    "date": "2022 May",
+    "location": "Yellowknife, Northwest Territories, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast02.jpg",
+    "filename": "ast02.jpg",
+    "name": "Sanssouci",
+    "type": "2",
+    "date": "2022 May",
+    "location": "Yellowknife, Northwest Territories, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast02.jpg",
+    "filename": "ast02.jpg",
+    "name": "Sanssouci",
+    "type": "2",
+    "date": "2022 May",
+    "location": "Yellowknife, Northwest Territories, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\food01.jpg",
+    "filename": "food01.jpg",
+    "name": "Sanssouci",
+    "type": "3",
+    "date": "2022 May",
+    "location": "Yellowknife, Northwest Territories, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\food02.jpg",
+    "filename": "food02.jpg",
+    "name": "Sanssouci",
+    "type": "3",
+    "date": "2022 May",
+    "location": "Yellowknife, Northwest Territories, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\food03.jpg",
+    "filename": "food03.jpg",
+    "name": "Sanssouci",
+    "type": "3",
+    "date": "2022 May",
+    "location": "Yellowknife, Northwest Territories, Canada"
+  },
+  
+]

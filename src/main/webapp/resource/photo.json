@@ -1,0 +1,260 @@
+[
+  {
+    "path": "resource\\72dpi\\arc01.jpg",
+    "filename": "arc01.jpg",
+    "name": "The Parliament Buildings",
+    "type": "1",
+    "date": "2022 May",
+    "location": "Victoria, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\arc02.jpg",
+    "filename": "arc02.jpg",
+    "name": "The Parliament Buildings",
+    "type": "1",
+    "date": "2022 May",
+    "location": "Victoria, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\arc03.jpg",
+    "filename": "arc03.jpg",
+    "name": "The Parliament Buildings",
+    "type": "1",
+    "date": "2022 May",
+    "location": "Victoria, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\arc04.jpg",
+    "filename": "arc04.jpg",
+    "name": "Hotel Oberland",
+    "type": "1",
+    "date": "2019 April",
+    "location": "Lauterbrunnen, Bern, Switzerland"
+  },
+  {
+    "path": "resource\\72dpi\\arc05.jpg",
+    "filename": "arc05.jpg",
+    "name": "Berlin Cathedral",
+    "type": "1",
+    "date": "2019 April",
+    "location": "Museum Island, Berlin, Germany"
+  },
+    {
+    "path": "resource\\72dpi\\arc06.jpg",
+    "filename": "arc06.jpg",
+    "name": "Alte Nationalgalerie",
+    "type": "1",
+    "date": "2019 April",
+    "location": "Museum Island, Berlin, Germany"
+  },
+    {
+    "path": "resource\\72dpi\\arc07.jpg",
+    "filename": "arc07.jpg",
+    "name": "Berlin Cathedral",
+    "type": "1",
+    "date": "2019 April",
+    "location": "Museum Island, Berlin, Germany"
+  },
+  {
+    "path": "resource\\72dpi\\arc08.jpg",
+    "filename": "arc08.jpg",
+    "name": "Sanssouci",
+    "type": "1",
+    "date": "2019 April",
+    "location": "Potsdam, Germany"
+  },
+  {
+    "path": "resource\\72dpi\\arc09.jpg",
+    "filename": "arc09.jpg",
+    "name": "Emerald Lake Lodge",
+    "type": "1",
+    "date": "2019 September",
+    "location": "Yoho National Park, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast01.jpg",
+    "filename": "ast01.jpg",
+    "name": "Aurora01",
+    "type": "2",
+    "date": "2017 March",
+    "location": "Yellowknife, NT, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast02.jpg",
+    "filename": "ast02.jpg",
+    "name": "Aurora02",
+    "type": "2",
+    "date": "2017 March",
+    "location": "Yellowknife, NT, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast03.jpg",
+    "filename": "ast03.jpg",
+    "name": "Summer Milky Way 2021-1",
+    "type": "2",
+    "date": "2021 July",
+    "location": "Waterton Lake, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast04.jpg",
+    "filename": "ast04.jpg",
+    "name": "Summer Milky Way 2021-2",
+    "type": "2",
+    "date": "2021 July",
+    "location": "Waterton Lake, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast05.jpg",
+    "filename": "ast05.jpg",
+    "name": "Autumn Milky Way 2017",
+    "type": "2",
+    "date": "2017 October",
+    "location": "Ghost Lake, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast06.jpg",
+    "filename": "ast06.jpg",
+    "name": "Ecilpice 2017",
+    "type": "2",
+    "date": "2017 August",
+    "location": "Calgary, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\ast07.jpg",
+    "filename": "ast07.jpg",
+    "name": "Canada Day Firework",
+    "type": "2",
+    "date": "2016 July",
+    "location": "Lion Bridge, Calgary, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\food01.jpg",
+    "filename": "food01.jpg",
+    "name": "Octopus Stewer",
+    "type": "3",
+    "date": "2019 April",
+    "location": "Calgary, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\food02.jpg",
+    "filename": "food02.jpg",
+    "name": "Sticky Pork Bao Buns",
+    "type": "3",
+    "date": "2019 April",
+    "location": "Calgary, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\food03.jpg",
+    "filename": "food03.jpg",
+    "name": "Thai Food",
+    "type": "3",
+    "date": "2022 May",
+    "location": "Calgary, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\land01.jpg",
+    "filename": "land01.jpg",
+    "name": "Jungfraujoch, Switzerland",
+    "type": "4",
+    "date": "2019 April",
+    "location": "Calgary, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\land04.jpg",
+    "filename": "land04.jpg",
+    "name": "Jungfraujoch, Switzerland",
+    "type": "4",
+    "date": "2019 April",
+    "location": "Calgary, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\land09.jpg",
+    "filename": "land09.jpg",
+    "name": "Jungfraujoch, Switzerland",
+    "type": "4",
+    "date": "2019 April",
+    "location": "Calgary, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\land05.jpg",
+    "filename": "land05.jpg",
+    "name": "Two Jack Lake",
+    "type": "4",
+    "date": "2017 September",
+    "location": "Calgary, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\land08.jpg",
+    "filename": "land08.jpg",
+    "name": "Fairview Mountain",
+    "type": "4",
+    "date": "2017 December",
+    "location": "Lake Louise, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\land12.jpg",
+    "filename": "land12.jpg",
+    "name": "Inner Harbour Causeway",
+    "type": "4",
+    "date": "2022 May",
+    "location": "Victoria, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\land13.jpg",
+    "filename": "land13.jpg",
+    "name": "Emerald Lake",
+    "type": "4",
+    "date": "2019 September",
+    "location": "Yoho National Park, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\plant02.jpg",
+    "filename": "plant02.jpg",
+    "name": "The Butchart Gardens",
+    "type": "5",
+    "date": "2022 May",
+    "location": "Brentwood Bay, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\plant03.jpg",
+    "filename": "plant03.jpg",
+    "name": "The Butchart Gardens",
+    "type": "5",
+    "date": "2022 May",
+    "location": "Brentwood Bay, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\plant06.jpg",
+    "filename": "plant06",
+    "name": "The Butchart Gardens",
+    "type": "5",
+    "date": "2022 May",
+    "location": "Brentwood Bay, BC, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\por01.jpg",
+    "filename": "por01.jpg",
+    "name": "Annual Dinner",
+    "type": "0",
+    "date": "2020 Feburary",
+    "location": "Calgary, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\por02.jpg",
+    "filename": "por02.jpg",
+    "name": "Speech Contest 01",
+    "type": "0",
+    "date": "2018 March",
+    "location": "Calgary, AB, Canada"
+  },
+  {
+    "path": "resource\\72dpi\\por03.jpg",
+    "filename": "por03.jpg",
+    "name": "Speech Contest 02",
+    "type": "0",
+    "date": "2018 March",
+    "location": "Calgary, AB, Canada"
+  }
+
+
+]
